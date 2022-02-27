@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\obj\Debug\InheritanceDay12.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\obj\Debug\InheritanceDay12.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\bin\Debug\InheritanceDay12.exe.config
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\bin\Debug\InheritanceDay12.exe
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\bin\Debug\InheritanceDay12.pdb
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\obj\Debug\InheritanceDay12.exe
+C:\Users\PC\source\repos\InheritanceDay12\InheritanceDay12\obj\Debug\InheritanceDay12.pdb
